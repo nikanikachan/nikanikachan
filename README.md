@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikanikachan
-- 👀 I’m interested in anything python, machine learning and blockchain related
+- 👀 I’m interested in anything python, machine learning and anything blockchain related
 - 🌱 I’m currently learning full stack development
 - 💞️ Happy to collaborate on fun and useful data science and machine learning projects
 - 📫 Reach me at https://www.linkedin.com/in/riettenikachan/
